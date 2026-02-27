@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Apricot",
+  "base_artist": "Endorfin.",
+  "createdAt": "2026-02-27T13:52:56.950459Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Apricot Princess",
+      "artist": "Rex Orange County",
+      "has_synced": true,
+      "path": "select/01_Apricot_Princess_Rex_Orange_County.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Apricot",
+      "artist": "Jack Stauber",
+      "has_synced": true,
+      "path": "select/02_Apricot_Jack_Stauber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Apricot Tea",
+      "artist": "The Robot Ate Me",
+      "has_synced": true,
+      "path": "select/03_Apricot_Tea_The_Robot_Ate_Me.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Apricot Stone - Armenia",
+      "artist": "Eva Rivas",
+      "has_synced": true,
+      "path": "select/04_Apricot_Stone_-_Armenia_Eva_Rivas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Apricot Stone (Armenia)",
+      "artist": "Eva Rivas",
+      "has_synced": true,
+      "path": "select/05_Apricot_Stone_(Armenia)_Eva_Rivas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Apricot",
+      "artist": "Sven Väth",
+      "has_synced": false,
+      "path": "select/06_Apricot_Sven_Väth.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Downstream (feat.Lusty Apricot)",
+      "artist": "Tab",
+      "has_synced": false,
+      "path": "select/07_Downstream_(feat.Lusty_Apricot)_Tab.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Storm Chasers (feat.Lusty Apricot)",
+      "artist": "Tab",
+      "has_synced": false,
+      "path": "select/08_Storm_Chasers_(feat.Lusty_Apricot)_Tab.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Syncopatience (feat.Jade Gritty &amp; Lusty Apricot)",
+      "artist": "Tab",
+      "has_synced": false,
+      "path": "select/09_Syncopatience_(feat.Jade_Gritty_&amp;_Lusty_Apricot)_Tab.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "apricot (Interlude)",
+      "artist": "Edo Saiya",
+      "has_synced": true,
+      "path": "select/10_apricot_(Interlude)_Edo_Saiya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Apricot",
+      "artist": "Mosh36",
+      "has_synced": true,
+      "path": "select/11_Apricot_Mosh36.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "apricot skies (feat. Bankrol Hayden)",
+      "artist": "Nova Miller feat. Bankrol Hayden",
+      "has_synced": true,
+      "path": "select/12_apricot_skies_(feat._Bankrol_Hayden)_Nova_Miller_feat._Bankrol_Hayden.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "apricot skies (feat. Bankrol Hayden)",
+      "artist": "Nova Miller, Bankrol Hayden",
+      "has_synced": true,
+      "path": "select/13_apricot_skies_(feat._Bankrol_Hayden)_Nova_Miller,_Bankrol_Hayden.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Apricot Stone",
+      "artist": "Eva Rivas",
+      "has_synced": true,
+      "path": "select/14_Apricot_Stone_Eva_Rivas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "【MV】Sun Killer - Apricot【COVER】",
+      "artist": "Apricot (Froot)",
+      "has_synced": true,
+      "path": "select/15_【MV】Sun_Killer_-_Apricot【COVER】_Apricot_(Froot).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Apricot",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/pl_01_Apricot_Endorfin..txt"
+    }
+  ]
+}
